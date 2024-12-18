@@ -1,6 +1,6 @@
 # UI Clones
 
-This repository contains pixel-perfect UI clones of popular applications built with **HTML**, **CSS (SASS)(TailwindCSS)**, and **JavaScript**. These projects focus on responsive design, interactivity, and best practices in front-end development.
+This repo contains pixel-perfect UI clones of popular applications focusing on responsive design, interactivity, and best practices in front-end development.
 
 ## **Contents**
 
