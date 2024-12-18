@@ -22,7 +22,7 @@ git clone https://github.com/your-username/UI-Clones.git
 cd UI-Clones
 ```
 
-## Project Details
+## 📝 Project Details
 
 ### 1. YouTube UI Clone
 
@@ -79,8 +79,9 @@ Features:
 - Filters for property searches.
 - Responsive card designs.
 
+### 📚 Folder Structure
+
 <details>
-<summary><span style="font-size: 22px; font-weight: bold;">Folder Structure</span></summary>
 
 ```plaintext
 ui-clones/
@@ -112,12 +113,12 @@ ui-clones/
 
 </details>
 
-### Future Plans
+### ⏰ Future Plans
 
-Add additional interactivity and animations.
-Optimize for faster load times.
-Include TypeScript and advanced front-end features.
+- Add additional interactivity and animations.
+- Optimize for faster load times.
+- Include TypeScript and advanced front-end features.
 
-### Contributing
+### 🤝 Contributing
 
 Feel free to open an issue or submit a pull request if you want to improve these UI clones.
