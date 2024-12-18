@@ -79,9 +79,10 @@ Features:
 - Filters for property searches.
 - Responsive card designs.
 
-### Folder Structure
+<details>
+<summary><span style="font-size: 22px; font-weight: bold;">Folder Structure</span></summary>
 
-```markdown
+```plaintext
 ui-clones/
 ├── youtube-ui/
 │ ├── index.html
@@ -108,6 +109,8 @@ ui-clones/
 │ ├── styles.css
 │ ├── script.js
 ```
+
+</details>
 
 ### Future Plans
 
