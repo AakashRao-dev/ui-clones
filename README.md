@@ -4,12 +4,12 @@ This repository contains pixel-perfect UI clones of popular applications built w
 
 ## **Contents**
 
-1. [YouTube UI Clone](#1-youtube-ui-clone)
-2. [Instagram UI Clone](#2-instagram-ui-clone)
-3. [Telegram UI Clone](#3-telegram-ui-clone)
-4. [WhatsApp UI Clone](#4-whatsapp-ui-clone)
-5. [Netflix UI Clone](#5-netflix-ui-clone)
-6. [Airbnb UI Clone](#6-airbnb-ui-clone)
+- [YouTube UI Clone](#1-youtube-ui-clone)
+- [Instagram UI Clone](#2-instagram-ui-clone)
+- [Telegram UI Clone](#3-telegram-ui-clone)
+- [WhatsApp UI Clone](#4-whatsapp-ui-clone)
+- [Netflix UI Clone](#5-netflix-ui-clone)
+- [Airbnb UI Clone](#6-airbnb-ui-clone)
 
 ---
 
@@ -29,70 +29,60 @@ cd UI-Clones
 YouTube clone homepage with a header, hero section, sidebar, and video grid.
 
 Features:
-Responsive layout for different screen sizes.
-Functional search bar and dropdown menus.
-Hover effects for video thumbnails.
 
-Status: In-Progress
-Demo:
+- Responsive layout for different screen sizes.
+- Functional search bar and dropdown menus.
+- Hover effects for video thumbnails.
 
 ### 2. Instagram UI Clone
 
 Instagram feed clone with a header, stories, and post feed layout.
 
 Features:
-Like and follow buttons with interactivity.
-Responsive grid for posts and stories.
 
-Status: In Progress
-Demo: Coming Soon
+- Like and follow buttons with interactivity.
+- Responsive grid for posts and stories.
 
 ### 3. Telegram UI Clone
 
 A replica of the Telegram chat interface with a sidebar and conversation area.
 
 Features:
-Responsive message bubbles.
-Interactive sidebar for chats.
 
-Status: In Progress
-Demo: Coming Soon
+- Responsive message bubbles.
+- Interactive sidebar for chats.
 
 ### 4. WhatsApp UI Clone
 
 WhatsApp clone of chat interface with status, chat list, and conversation area.
-Features:
-Typing indicator animation.
-Responsive design.
 
-Status: In Progress
-Demo: Coming Soon
+Features:
+
+- Typing indicator animation.
+- Responsive design.
 
 ### 5. Netflix UI Clone
 
 A replica of the Netflix homepage with movie carousels and hover effects.
 
 Features:
-Responsive design for carousels.
-Smooth animations on hover.
 
-Status: In Progress
-Demo: Coming Soon
+- Responsive design for carousels.
+- Smooth animations on hover.
 
 ### 6. Airbnb UI Clone
 
 A clone of Airbnb's homepage with navbar, search bar, and property listings.
 
 Features:
-Filters for property searches.
-Responsive card designs.
 
-Status: In Progress
-Demo: Coming Soon
+- Filters for property searches.
+- Responsive card designs.
 
 ### Folder Structure
 
-UI-Clones/
+```markdown
+ui-clones/
 ├── youtube-ui/
 │ ├── index.html
 │ ├── styles.css
@@ -117,6 +107,7 @@ UI-Clones/
 │ ├── index.html
 │ ├── styles.css
 │ ├── script.js
+```
 
 ### Future Plans
 
